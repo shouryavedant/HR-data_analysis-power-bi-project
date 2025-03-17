@@ -8,9 +8,9 @@ I developed a comprehensive project in power bi, creating multiple graphs to ana
 - 4.Avg employee age
 - 5.Avg employee salary
 
-##Dataset
+# Dataset
 - <a href="https://github.com/shouryavedant/HR-data_analysis-power-bi-project/blob/main/HR_Analytics.csv">Dataset</a>
 
-#Dashboard image
+# Dashboard image
 ![Screenshot dashboard](https://github.com/user-attachments/assets/d005186e-ba91-4648-abc5-c65ee128b743)
 
