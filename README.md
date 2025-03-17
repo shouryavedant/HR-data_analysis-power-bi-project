@@ -16,8 +16,18 @@ I developed a comprehensive project in power bi, creating multiple graphs to ana
 
 # Questions Solved
 - 1. How many Employee leave the company based on salary slab.
-  2. % of employee leave the company based on education field.
-  3. Top 4 job roles who leave the company.
-  4. Employees who leave the company based on his feedback.
-  5. Count of employees who lewve the company on age group basis 
+- 2. % of employee leave the company based on education field.
+- 3. Top 4 job roles who leave the company.
+- 4. Employees who leave the company based on his feedback.
+- 5. Count of employees who lewve the company on age group basis 
 
+# Project insight
+- Employees whose salary is less than the average salary of employee leaves the company most.
+- Life science and Medical field education background people leave the company most.
+- Young professionals are leaving the company most might get good opportunities or salary hikes.
+- laboratory Technician are the one who gave mostly the worst feedback.
+- and also the laboratory technician are the one who leave the company most based on job roles basis.
+
+# Conclusion
+Based on the analysis of the data company should focus on employees salary hike and also suggeted to take some actions on thier employees feedback and if their employees
+are not satisfied then work on this.
